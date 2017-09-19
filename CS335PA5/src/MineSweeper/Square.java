@@ -1,3 +1,4 @@
+//By Jacob Richardson Fall 2016
 package MineSweeper;
 
 import java.awt.Color;
